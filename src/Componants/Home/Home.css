@@ -1,0 +1,42 @@
+.home1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center; 
+    height: 100vh; 
+    background-image:  url(https://www.w3schools.com/images/background_in_space.webp);
+   
+}
+.home{
+    height: 500px;
+    margin-left: 400px;
+}
+
+
+.home h1{
+    font-size:60px;
+    color: white;
+    
+}
+.home div{
+   color: rgba(237, 237, 52, 0.942);
+   font-weight: bold;
+   font-size:20px ;
+   padding: 10px;
+}
+.home h2{
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+.home input{
+    width: 450px;
+    height: 20px;
+    padding: 10px;
+    border-radius: 40px;
+}
+.image{
+    margin-left: 250px ;
+    margin-bottom: 90px;
+    
+}

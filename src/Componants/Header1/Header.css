@@ -1,0 +1,45 @@
+.header{
+    display: flex;
+    justify-content: space-evenly ;
+    /* padding: 10px; */
+    /* margin-right: 500px; */
+    height: 50px;
+
+   
+}
+
+.header2{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    height: 400p;
+    color: white;
+    background-image: url(https://www.w3schools.com/images/background_in_space.webp);
+
+   
+}
+.header button {
+   height: 30px;
+   width: 70px;
+   border-radius: 40px;
+   border: 0; 
+}
+.btn1{
+   background-color: rgb(112, 215, 112);
+  
+}
+.header input{
+   border-radius: 60px;
+   height: 25px;
+ 
+}
+.header .image{
+    /* display: flex; */
+    /* width: 0px; */
+    margin-left: 10px;
+    /* height: 10px; */
+   
+    
+ 
+}
+

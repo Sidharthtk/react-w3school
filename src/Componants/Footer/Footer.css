@@ -1,0 +1,9 @@
+.footer{
+    display: flex;
+    justify-content: space-evenly ;
+    padding: 10px;
+    font-weight: bold;
+    color: rgba(237, 237, 52, 0.942) ;
+    background-image: url(https://www.w3schools.com/images/background_in_space.webp);
+    height: 400px;
+}
